@@ -1,0 +1,2 @@
+# Optional audio backend. Tkinter, Decimal and WAV generation use Python's stdlib.
+pygame==2.6.1
